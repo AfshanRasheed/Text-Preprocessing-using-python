@@ -1,4 +1,3 @@
 # Natural-Lnaguage-Processing-Using-Python-and-RapidMiner
 
-emails.csv.zip has been attached, that will be use for pre processing
-Applied preprocessing steps using python
+This project is based on cleaning and data pre-processing of emails based on NLP techniques. Project file(emails.csv.zip) has also been uploaded along with python file.
